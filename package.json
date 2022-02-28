@@ -4,9 +4,11 @@
   "author": "Nobi <nobi@nobidev.com>",
   "license": "MIT",
   "scripts": {
+    "postinstall": "lerna bootstrap"
   },
   "dependencies": {
   },
   "devDependencies": {
+    "lerna": "^4.0.0"
   }
 }

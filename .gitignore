@@ -4,3 +4,6 @@
 # Yarn
 /yarn.lock
 /yarn-*.log
+
+# Lerna
+/lerna-*.log
