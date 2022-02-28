@@ -1,0 +1,14 @@
+{
+  "name": "@kizicom/base",
+  "version": "0.0.0",
+  "author": "Nobi <nobi@nobidev.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint *.ts",
+    "lint:fix": "yarn lint --fix"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
