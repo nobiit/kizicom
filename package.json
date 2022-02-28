@@ -1,0 +1,12 @@
+{
+  "name": "kizicom",
+  "private": true,
+  "author": "Nobi <nobi@nobidev.com>",
+  "license": "MIT",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
