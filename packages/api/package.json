@@ -1,0 +1,17 @@
+{
+  "name": "@kizicom/api",
+  "version": "0.0.0",
+  "author": "Nobi <nobi@nobidev.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "test": "jest",
+    "lint": "eslint src/**/*.ts tests/**/*.ts",
+    "lint:fix": "yarn lint --fix"
+  },
+  "dependencies": {
+    "@kizicom/common": "^0.0.0"
+  },
+  "devDependencies": {
+  }
+}

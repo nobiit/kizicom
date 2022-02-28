@@ -1,0 +1,18 @@
+{
+  "extends": "@kizicom/base/tsconfig.json",
+  "compilerOptions": {
+    "tsBuildInfoFile": "lib/.tsbuildinfo",
+    "rootDir": ".",
+    "outDir": "lib",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    }
+  },
+  "include": [
+    "src/**/*",
+    "tests/**/*"
+  ]
+}
